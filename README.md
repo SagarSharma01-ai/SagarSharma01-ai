@@ -14,22 +14,22 @@
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"> -->
 
  <!-- Github Buttons -->
-  <a href="https://github.com/rajeevgit8055hub">
-    <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/SagarSharma01-ai">
+    <img src="https://komarev.com/ghpvc/?username=SagarSharma01-ai&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a>
- <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+ <a href="https://www.linkedin.com/in/sagar-sharma-712ba4324/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <!-- <a href="https://github.com/rajeevgit8055hub?tab=followers">
-    <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
+  <!-- <a href="https://github.com/SagarSharma01-ai?tab=followers">
+    <img src="https://img.shields.io/github/followers/SagarSharma01-ai?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
   </a> -->
  <!--  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/> -->
-<!-- <a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+<!-- <a href="https://in.linkedin.com/in/sagar-sharma-712ba4324">
+  <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Sharma-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a> -->
 
 <!-- Github Buttons -->
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=SagarSharma01-ai&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=SagarSharma01-ai&color=blueviolet)](https://github.com/SagarSharma01-ai) -->
 
 <!-- Typing Animation -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
@@ -43,11 +43,13 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
 <img align='right' src="Thinking.gif" alt="Coding Boy" width="250">
 
-*I’m passionate about turning raw data into meaningful business insights.
-With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
-Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
-and driving smarter business decisions. I’m committed to continuous learning
-and delivering data-driven solutions that create real business impact.*
+*I am a results-driven Data Analyst Enthusiast and Postgraduate in Economics, 
+highly adept at applying Python, SQL, Excel and Power BI to solve real-world business challenges.
+My background includes practical experience in Data Processing and Quality Assurance at the Ministry of External Affairs, 
+ensuring high data integrity for critical functions. 
+I specialize in translating complex datasets into actionable insights,
+building robust visualizations, and driving evidence-based decisions, 
+making me committed to delivering tangible business impact through data-driven solutions.*
 
 <!-- ## 🚀 My Mission  -->
 <img src="Superhero.gif" width="50"><img src="mission.gif" width="120" height="50">
@@ -172,7 +174,7 @@ and delivering data-driven solutions that create real business impact.*
 </p>
 
 <!-- ## 💫 Things I Love -->
-<img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>***Things I Love***
+<img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>  ***Things I Love***
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -192,7 +194,7 @@ and delivering data-driven solutions that create real business impact.*
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150">***Projects***
+<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"> ***Projects***
 
 *Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
