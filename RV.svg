@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 198" width="2500" height="2500">
+  <defs>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="30" y1="20" x2="170" y2="180">
+      <stop offset="0" stop-color="#7b1b5a"/>
+      <stop offset="0.5" stop-color="#5e1953"/>
+      <stop offset="1" stop-color="#3a0c4c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="198" height="198" rx="20" fill="url(#grad)"/>
+
+  <!-- Custom Premium S -->
+  <path fill="#ffffff" d="
+    M118 46
+    C118 34 106 26 90 26
+    C68 26 52 40 52 58
+    C52 74 63 83 86 89
+    L98 92
+    C118 97 130 106 130 124
+    C130 150 108 170 78 170
+    C48 170 30 152 30 128
+    L30 122
+    L52 122
+    L52 128
+    C52 142 62 152 80 152
+    C98 152 108 142 108 128
+    C108 114 98 108 76 102
+    L64 99
+    C42 93 30 80 30 60
+    C30 34 54 12 90 12
+    C122 12 144 30 144 56
+    Z
+  "/>
+</svg>
