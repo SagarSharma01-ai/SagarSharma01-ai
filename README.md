@@ -249,7 +249,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<img src="Performance.gif" width="45"><img src="Github Overview.gif" height="150" width="450">&nbsp;***GitHub Performance Overview***
+<img src="Performance.gif" width="80"><img src="Github Overview.gif" height="130" width="450">&nbsp;***GitHub Performance Overview***
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
