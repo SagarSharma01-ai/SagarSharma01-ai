@@ -122,7 +122,7 @@ making me committed to delivering tangible business impact through data-driven s
 <img alt="Skills" src="Setting.gif" />
 
 <!-- ## ⚙️ Tech Stack -->
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">***Tech Stack***
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60">***Tech Stack***
 <!-- <img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="250" /> -->
 
 <!-- Skill buttons -->
@@ -194,7 +194,7 @@ making me committed to delivering tangible business impact through data-driven s
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" alt="Projects" width="50"><img src="Web Dev1.gif" alt="Projects" width="170"> ***Projects***
+<img src="Neon Columns.gif" alt="Projects" width="60"><img src="Web Dev1.gif" alt="Projects" width="180"> ***Projects***
 
 *Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
