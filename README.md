@@ -52,7 +52,7 @@ building robust visualizations, and driving evidence-based decisions,
 making me committed to delivering tangible business impact through data-driven solutions.*
 
 <!-- ## 🚀 My Mission  -->
-<img src="Superhero.gif" width="50"><img src="mission.gif" width="120" height="50">
+<img src="Superhero.gif" width="70"><img src="mission.gif" width="120" height="50">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
