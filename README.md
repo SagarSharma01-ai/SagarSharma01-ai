@@ -258,26 +258,26 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarSharma01-ai&show_icons=true&theme=midnight-purple)
 
 <!-- ## 💬 Top Languages -->
 <img src="Technology.gif" width="40">&nbsp;***Top Languages***
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSharma01-ai&layout=compact&theme=midnight-purple)
 <!-- <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" /> -->
 
 <!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
 
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SagarSharma01-ai&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
 <img src="Color Loading.gif" alt="Streak" width="50">&nbsp;***GitHub Streak***
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SagarSharma01-ai&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 <!--## 📈 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarSharma01-ai&theme=nightowl&bg_color=000000&hide_border=true"/>
 </div>
 
 <!-- ## 🐍 Snake Contribution Animation -->
