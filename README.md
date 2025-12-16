@@ -249,11 +249,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance Overview***
-
-<!--## 🏆 GitHub Trophies -->
-<img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="Performance.gif" width="30"><img src="Github Overview.gif" height="150" width="200">&nbsp;***GitHub Performance Overview***
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
