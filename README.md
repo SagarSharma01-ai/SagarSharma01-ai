@@ -286,15 +286,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Snake Green Pink Animation -->
 <div align="center">
  
-![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-snake-dark.svg)
+![snake gif]<p align="center">
+  <img src="https://github.com/SagarSharma01-ai/SagarSharma01-ai/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
  
-</div>
-
-<!-- ☕ Buy me a coffee -->
-<div align="center">
-<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
-</a>
 </div>
 
 <!-- ## 🧠 Contribution Pulse -->
@@ -302,20 +297,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Contribution Pulse Buttons -->
 ![Contributions](https://badgen.net/badge/Contributions/Active/228B22?icon=github)
-![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
+![Commits](https://badgen.net/github/commits/SagarSharma01-ai/SagarSharma01-ai?icon=github&label=Total%20Commits)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-228B22?style=for-the-badge&logo=github)
-![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Repo Size](https://img.shields.io/github/repo-size/SagarSharma01-ai/SagarSharma01-ai?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/SagarSharma01-ai/SagarSharma01-ai?style=for-the-badge&logo=git)
 ![Project Status](https://img.shields.io/badge/Status-Stable-blue?style=for-the-badge&logo=dependabot)
 ![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/SagarSharma01-ai/SagarSharma01-ai?style=for-the-badge&logo=git)
+![GitHub Stars](https://img.shields.io/github/stars/SagarSharma01-ai?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
 
 <!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
-<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
+<a href="https://github.com/SagarSharma01-ai/SagarSharma01-ai" alt="GitHub Stars" title="Star my repositories">
 <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
 </div>
@@ -327,12 +322,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <div align="center">
 <!-- 💼 LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
-<!-- ✖️ X -->
-<a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="30" height="30">
-</a>
 <!-- 🆔 GitHub -->
-<a href="https://github.com/rajeevgit8055hub" target="_blank">
+<a href="https://github.com/SagarSharma01-ai" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
 </a>
 <!-- 🌐 Website -->
@@ -344,7 +335,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="30" height="30">
 </a>
 <!-- 📮 Gmail -->
-<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
+<a href="mailto:ssharma9663@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
 </a>
 <!-- 🟩 HackerRank -->
