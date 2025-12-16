@@ -201,41 +201,32 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Card Style Repositories -->
 
-<!-- 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
-[![Hospital Emergency Room Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
+[![📊 Road Accident Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Road-Accident-Analysis-Excel-SQL-PowerBI&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
 
-<!-- - 🧩 [**Unified Multi Extension Folder Based Data Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning) -->
-[![Unified Multi Extension Folder Based Data Cleaning](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
+[![🧩 Bank Loan Analytics](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Bank-Loan-Analytics&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)
 
-<!-- - 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS) -->
-[![SmartBite Online Food Delivery DBMS](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
+[![🛢 PAN Card Validation](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PAN-Card-Validation-SQL-Python&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)
 
-<!-- - 🖼️ [**Executive Business Presentation Vault**](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault) -->
-[![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Executive-Business-Presentation-Vault&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault)
+[![💖 Pizza Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Pizza-Sales-Multi-Tool-Analysis&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis)
 
-<!-- - 🛢 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis) -->
-[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+[![💻 IPL Evolution Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-IPL-Evolution-Analysis&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis)
 
-<!-- - 💖 [**LoveForever – A Heartfelt Digital Promise**](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise) -->
-[![LoveForever – A Heartfelt Digital Promise](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=LoveForever-A-Heartfelt-Digital-Promise&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise)
- 
-<!-- - 📈 [**Nescafe Driving Coffee Sales Excellence**](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence) -->
-[![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+[![📉 Sales Dashboard 2024](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Sales-Dashboard-2024&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024)
 
-<!-- - 📈 [**Blinkit Grocery Analysis**](https://github.com/rajeevgit8055hub/Blinkit-Grocery-Analysis) -->
-[![Blinkit Grocery Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Blinkit-Grocery-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Blinkit-Grocery-Analysis)
+[![📈 Car Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Car-Sales-Dashboard&theme=midnight-purple&cache_seconds=1800)](https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard)
 
-<!-- - 📉 [**HSBC Strategic Stakeholder Intelligence**](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence) -->
-[![HSBC Strategic Stakeholder Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence)
+[![🗃️ Meta Ad Performance Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Meta-Ad-Performance-Analysis&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis)
 
-<!-- - 🌐 [**Dynamic Neon Glow Website**](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io) -->
-[![Dynamic Neon Glow Website](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
+[![📈 Super Store Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=SuperStore-Sales-Analysis&theme=midnight-purple&cache_seconds=1800)]
+(https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis)
 
-<!-- - 🎓 [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub) -->
-[![Dynamic Developer Hub](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevgit8055hub&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevgit8055hub)
-
-<!-- - 💻 [**Verified Digital Credentials**](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
-[![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
 <!-- ## 💡 ##Tip: -->
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 *Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.*
