@@ -194,7 +194,7 @@ making me committed to delivering tangible business impact through data-driven s
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" alt="Projects" width="60"><img src="Web Dev1.gif" alt="Projects" width="180"> ***Projects***
+<img src="Neon Columns.gif" alt="Projects" width="55"><img src="Web Dev1.gif" alt="Projects" width="180"> ***Projects***
 
 *Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
