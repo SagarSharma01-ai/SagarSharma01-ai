@@ -228,8 +228,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Code Snippets Link -->
 <p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
+  <a href="https://gist.github.com/SagarSharma01-ai" target="_blank">
+    <img src="https://gist.github.com/SagarSharma01-ai" alt="Open Gist"/>
   </a>
 </p>
 
@@ -241,7 +241,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img alt="Boy working on computer" src="Blue Boy.gif" />
 
 <!-- ## 📬 Connect with Me -->
-<img alt="Orange Meter" width="60" src="Orange Loading.gif" /><img src="Rocket_Planet.gif" height="35" alt="Rocket_Planet"><img src="Contact.gif" width="150" alt="Contact Me"/>
+<img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Rocket_Planet.gif" height="35" alt="Rocket_Planet"><img src="Contact.gif" width="150" alt="Contact Me"/>
 
 <!-- Typing Animation / 🤝 Connect with me -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
