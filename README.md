@@ -38,7 +38,7 @@
 
 <!-- 👤 About Me -->
 <!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> -->
-<img src="Biometric.gif" alt="Biometric" width="50"><img src="About me1.gif" alt="Aboutme" width="120">
+<img src="Biometric.gif" alt="Biometric" width="60"><img src="About me1.gif" alt="Aboutme" width="120">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
 <img align='right' src="Thinking.gif" alt="Coding Boy" width="250">
