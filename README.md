@@ -226,13 +226,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 🧠 Code Snippets  -->
 <img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="40" alt="GitHub" src="Snippets.jpg" />
 
-<!-- Code Snippets Link -->
-<p align="center">
-  <a href="https://gist.github.com/SagarSharma01-ai" target="_blank">
-    <img src="https://gist.github.com/SagarSharma01-ai" alt="Open Gist"/>
-  </a>
-</p>
-
 <!-- Code Snippets gif & Text -->
 <img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>*A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.*
 <br>
