@@ -201,31 +201,15 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Card Style Repositories -->
 
-[![📊 Road Accident Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Road-Accident-Analysis-Excel-SQL-PowerBI&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
-
-[![🧩 Bank Loan Analytics](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Bank-Loan-Analytics&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)
-
-[![🛢 PAN Card Validation](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PAN-Card-Validation-SQL-Python&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)
-
-[![💖 Pizza Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Pizza-Sales-Multi-Tool-Analysis&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis)
-
-[![💻 IPL Evolution Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-IPL-Evolution-Analysis&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis)
-
-[![📉 Sales Dashboard 2024](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Sales-Dashboard-2024&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024)
-
-[![📈 Car Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Car-Sales-Dashboard&theme=midnight-purple&cache_seconds=1800)](https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard)
-
-[![🗃️ Meta Ad Performance Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Meta-Ad-Performance-Analysis&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis)
-
-[![📈 Super Store Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=SuperStore-Sales-Analysis&theme=midnight-purple&cache_seconds=1800)]
-(https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis)
+[![📊 Road Accident Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Road-Accident-Analysis-Excel-SQL-PowerBI&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
+[![🧩 Bank Loan Analytics](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Bank-Loan-Analytics&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)
+[![🛢 PAN Card Validation](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PAN-Card-Validation-SQL-Python&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)
+[![💖 Pizza Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Pizza-Sales-Multi-Tool-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis)
+[![💻 IPL Evolution Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-IPL-Evolution-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis)
+[![📉 Sales Dashboard 2024](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Sales-Dashboard-2024&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024)
+[![📈 Car Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Car-Sales-Dashboard&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard)
+[![🗃️ Meta Ad Performance Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Meta-Ad-Performance-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis)
+[![📈 Super Store Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=SuperStore-Sales-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis)
 
 
 <!-- ## 💡 ##Tip: -->
