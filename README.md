@@ -253,15 +253,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 <!-- ## 👨‍💻 Profile Summary Card -->
+
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SagarSharma01-ai&theme=midnight_purple)
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarSharma01-ai&show_icons=true&theme=midnight-purple)
 
 <!-- ## 💬 Top Languages -->
 <img src="Technology.gif" width="40">&nbsp;***Top Languages***
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSharma01-ai&layout=compact&theme=midnight-purple)
 <!-- <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" /> -->
 
@@ -321,59 +324,55 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 🤝 Contact me -->
 <div align="center">
 <!-- 💼 LinkedIn -->
-<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
+<a href="https://www.linkedin.com/in/sagar-sharma-712ba4324/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
 <!-- 🆔 GitHub -->
 <a href="https://github.com/SagarSharma01-ai" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
 </a>
 <!-- 🌐 Website -->
-<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
+<a href="https://sagar-sharma-data-analys-cg15y5v.gamma.site/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="30" height="30">
-</a>
-<!-- 🟢 ORCID -->
- <a href="https://orcid.org/0009-0009-9505-3589" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="30" height="30">
 </a>
 <!-- 📮 Gmail -->
 <a href="mailto:ssharma9663@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
 </a>
 <!-- 🟩 HackerRank -->
-<a href="https://www.hackerrank.com/profile/rajeevtiwari8055" target="blank">
+<a href="https://www.hackerrank.com/profile/ssharma9663" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajeev tiwari" height="30" width="30" /></a>
-<!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
+<!-- <a href="https://www.hackerrank.com/profile/ssharma9663" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
 </a> -->
 <!-- 👤 Facebook -->
-<!-- <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
+<!-- <a href="https://www.facebook.com/sagar.brahman.96" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="35" height="35">
 </a> 
 <!-- ♓ Instagram -->
-<!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
+<!-- <a href="https://www.instagram.com/calmchor.sagar/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a> -->
 </div>
 <br>
 
 <!-- ⚠️ Disclaimer -->
-⚠️*Disclaimer:*<img alt="Rajeev" width="25" src="Pink Robot.png" /><img width="30" alt="Green sign" src="Green sign.gif" />*This repository is for educational use only. Feel free to fork or learn from it,
+⚠️*Disclaimer:*<img alt="Sagar" width="25" src="Pink Robot.png" /><img width="30" alt="Green sign" src="Green sign.gif" />*This repository is for educational use only. Feel free to fork or learn from it,
 <br>but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
 
 <!-- Then end of my GitHub profile -->
 
 <!-- 🐍⚕️ Violet Snake Contribution Animation -->
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SagarSharma01-ai/SagarSharma01-ai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SagarSharma01-ai/SagarSharma01-ai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SagarSharma01-ai/SagarSharma01-ai/output/github-snake.svg" />
 </picture> -->
 
 <!-- 🐍🧬 Snake Violet and Purple Animation -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/SagarSharma01-ai/SagarSharma01-ai/main/github-contribution-grid-snake.svg) -->
 
-<!-- [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
-<!-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>](https://www.linkedin.com/in/rajeev-tiwari123)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35"/>](mailto:rajeevtiwari8055@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/rajeevgit8055hub)
-[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
+<!-- [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/sagar.brahman.96) -->
+<!-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>](https://www.linkedin.com/in/sagar-sharma-712ba4324/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35"/>](mailto:ssharma9663@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/SagarSharma01-ai)
+[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://github.com/SagarSharma01-ai/SagarSharma01-ai/)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/sagar.brahman.96) -->
