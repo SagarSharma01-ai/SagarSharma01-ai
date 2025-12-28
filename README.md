@@ -202,7 +202,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 ### 🖼️ Card Style Repositories
 
-[![Road Accident Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Road-Accident-Analysis-Excel-SQL-PowerBI&theme=midnight-purple&cache_seconds=86400&v=1)](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
+[![Road Accident Analysis](https://img.shields.io/badge/Road_Accident_Analysis-Excel%20|%20SQL%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github)](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
 
 [![🧩 Bank Loan Analytics](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Bank-Loan-Analytics&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)<br/>
 
