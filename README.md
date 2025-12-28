@@ -204,7 +204,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 [![Road Accident Analysis](https://img.shields.io/badge/Road_Accident_Analysis-Excel%20|%20SQL%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github)](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
 
-[![🧩 Bank Loan Analytics](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Bank-Loan-Analytics&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)<br/>
+<a href="https://github.com/SagarSharma01-ai/Bank-Loan-Analytics">
+  <img src="https://img.shields.io/badge/BANK%20LOAN%20ANALYTICS-SQL%20%7C%20PYTHON-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
 [![🛢 PAN Card Validation](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PAN-Card-Validation-SQL-Python&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)<br/>
 
