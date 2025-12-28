@@ -376,3 +376,4 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/SagarSharma01-ai)
 [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://github.com/SagarSharma01-ai/SagarSharma01-ai/)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/sagar.brahman.96) -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Bank-Loan-Analytics&theme=midnight-purple" />
