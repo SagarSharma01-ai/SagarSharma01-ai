@@ -200,145 +200,48 @@ making me committed to delivering tangible business impact through data-driven s
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
 
 
-## 🖼️ Project Portfolio (Visual Overview)
+### 🖼️ Card Style Repositories
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI">
+  <img src="https://img.shields.io/badge/ROAD%20ACCIDENT%20ANALYSIS-Excel%20%7C%20SQL%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-### 🚦 Road Accident Analysis  
-<img src="assets/road_accident.png" width="100%" />
+<a href="https://github.com/SagarSharma01-ai/Bank-Loan-Analytics">
+  <img src="https://img.shields.io/badge/BANK%20LOAN%20ANALYTICS-SQL%20%7C%20Python%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-**Tools:** Excel | SQL | Power BI  
-End-to-end analysis of accident data to identify high-risk conditions, severity patterns, and safety insights.
+<a href="https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python">
+  <img src="https://img.shields.io/badge/PAN%20CARD%20VALIDATION-SQL%20%7C%20Python-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-🔗 [View Repository](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
+<a href="https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis">
+  <img src="https://img.shields.io/badge/PIZZA%20SALES%20ANALYSIS-Excel%20%7C%20SQL%20%7C%20Python%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-</td>
-<td width="50%">
+<a href="https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis">
+  <img src="https://img.shields.io/badge/IPL%20EVOLUTION%20ANALYSIS-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-### 🏦 Bank Loan Analytics  
-<img src="assets/bank_loan.png" width="100%" />
+<a href="https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024">
+  <img src="https://img.shields.io/badge/SALES%20DASHBOARD%202024-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-**Tools:** SQL | Python | Power BI  
-Customer segmentation, default risk analysis, and loan performance insights.
+<a href="https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard">
+  <img src="https://img.shields.io/badge/CAR%20SALES%20DASHBOARD-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-🔗 [View Repository](https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)
+<a href="https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis">
+  <img src="https://img.shields.io/badge/META%20AD%20PERFORMANCE%20ANALYSIS-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis">
+  <img src="https://img.shields.io/badge/SUPERSTORE%20SALES%20ANALYSIS-Python%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
----
+<a href="https://github.com/SagarSharma01-ai/Spotify-Streaming-Trends-Analysis">
+  <img src="https://img.shields.io/badge/SPOTIFY%20STREAMING%20TRENDS-Python%20%7C%20EDA-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+</a>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🍕 Pizza Sales Analysis  
-<img src="assets/pizza_sales.png" width="100%" />
-
-**Tools:** Excel | SQL | Python | Power BI  
-Revenue trends, top products, peak order times, and sales performance analysis.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis)
-
-</td>
-<td width="50%">
-
-### 💳 PAN Card Validation  
-<img src="assets/pan_card.png" width="100%" />
-
-**Tools:** SQL | Python  
-Validation logic, data cleaning, and rule-based verification system.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏏 IPL Evolution Dashboard  
-<img src="assets/ipl_dashboard.png" width="100%" />
-
-**Tools:** Power BI  
-Season-wise trends, team performance, and interactive dashboards.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis)
-
-</td>
-<td width="50%">
-
-### 📊 Sales Dashboard 2024  
-<img src="assets/sales_2024.png" width="100%" />
-
-**Tools:** Power BI  
-Yearly sales KPIs, growth trends, and region-wise performance.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024)
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Car Sales Dashboard  
-<img src="assets/car_sales.png" width="100%" />
-
-**Tools:** Power BI  
-Car sales trends, brand comparison, and market insights.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard)
-
-</td>
-<td width="50%">
-
-### 📣 Meta Ad Performance Analysis  
-<img src="assets/meta_ads.png" width="100%" />
-
-**Tools:** SQL | Python | Power BI  
-Ad performance, CTR analysis, ROI tracking, and campaign insights.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis)
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 Super Store Sales Analysis  
-<img src="assets/superstore.png" width="100%" />
-
-**Tools:** Excel | SQL | Power BI  
-Customer behavior, profit analysis, and category-wise sales insights.
-
-🔗 [View Repository](https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis)
-
-</td>
-<td width="50%">
-
-<!-- Future project placeholder -->
-🚀 *More projects coming soon…*
-
-</td>
-</tr>
-</table>
 
 <!-- ## 💡 ##Tip: -->
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 *Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.*
