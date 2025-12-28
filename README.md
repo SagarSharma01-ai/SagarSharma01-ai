@@ -200,27 +200,145 @@ making me committed to delivering tangible business impact through data-driven s
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
 
 
-### 🖼️ Card Style Repositories
+## 🖼️ Project Portfolio (Visual Overview)
 
-[![Road Accident Analysis](https://img.shields.io/badge/Road_Accident_Analysis-Excel%20|%20SQL%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github)](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/SagarSharma01-ai/Bank-Loan-Analytics">
-  <img src="https://img.shields.io/badge/BANK%20LOAN%20ANALYTICS-SQL%20%7C%20PYTHON-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
-</a>
+### 🚦 Road Accident Analysis  
+<img src="assets/road_accident.png" width="100%" />
 
-[![🛢 PAN Card Validation](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PAN-Card-Validation-SQL-Python&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)<br/>
+**Tools:** Excel | SQL | Power BI  
+End-to-end analysis of accident data to identify high-risk conditions, severity patterns, and safety insights.
 
-[![💖 Pizza Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Pizza-Sales-Multi-Tool-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis)<br/>
+🔗 [View Repository](https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI)
 
-[![💻 IPL Evolution Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-IPL-Evolution-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis)<br/>
+</td>
+<td width="50%">
 
-[![📉 Sales Dashboard 2024](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Sales-Dashboard-2024&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024)<br/>
+### 🏦 Bank Loan Analytics  
+<img src="assets/bank_loan.png" width="100%" />
 
-[![📈 Car Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=PowerBI-Car-Sales-Dashboard&theme=midnight-purple)](https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard)<br/>
+**Tools:** SQL | Python | Power BI  
+Customer segmentation, default risk analysis, and loan performance insights.
 
-[![🗃️ Meta Ad Performance Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=Meta-Ad-Performance-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis)<br/>
+🔗 [View Repository](https://github.com/SagarSharma01-ai/Bank-Loan-Analytics)
 
-[![📈 Super Store Sales Analysis](https://github-readme-stats.vercel.app/api/pin/?username=SagarSharma01-ai&repo=SuperStore-Sales-Analysis&theme=midnight-purple)](https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis)
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍕 Pizza Sales Analysis  
+<img src="assets/pizza_sales.png" width="100%" />
+
+**Tools:** Excel | SQL | Python | Power BI  
+Revenue trends, top products, peak order times, and sales performance analysis.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis)
+
+</td>
+<td width="50%">
+
+### 💳 PAN Card Validation  
+<img src="assets/pan_card.png" width="100%" />
+
+**Tools:** SQL | Python  
+Validation logic, data cleaning, and rule-based verification system.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏏 IPL Evolution Dashboard  
+<img src="assets/ipl_dashboard.png" width="100%" />
+
+**Tools:** Power BI  
+Season-wise trends, team performance, and interactive dashboards.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis)
+
+</td>
+<td width="50%">
+
+### 📊 Sales Dashboard 2024  
+<img src="assets/sales_2024.png" width="100%" />
+
+**Tools:** Power BI  
+Yearly sales KPIs, growth trends, and region-wise performance.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Car Sales Dashboard  
+<img src="assets/car_sales.png" width="100%" />
+
+**Tools:** Power BI  
+Car sales trends, brand comparison, and market insights.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard)
+
+</td>
+<td width="50%">
+
+### 📣 Meta Ad Performance Analysis  
+<img src="assets/meta_ads.png" width="100%" />
+
+**Tools:** SQL | Python | Power BI  
+Ad performance, CTR analysis, ROI tracking, and campaign insights.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Super Store Sales Analysis  
+<img src="assets/superstore.png" width="100%" />
+
+**Tools:** Excel | SQL | Power BI  
+Customer behavior, profit analysis, and category-wise sales insights.
+
+🔗 [View Repository](https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis)
+
+</td>
+<td width="50%">
+
+<!-- Future project placeholder -->
+🚀 *More projects coming soon…*
+
+</td>
+</tr>
+</table>
 
 <!-- ## 💡 ##Tip: -->
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 *Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.*
