@@ -199,48 +199,94 @@ making me committed to delivering tangible business impact through data-driven s
 *Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
 
+## 🖼️ Card Style Repositories
 
-### 🖼️ Card Style Repositories
+<table>
+<tr>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/Road-Accident-Analysis-Excel-SQL-PowerBI">
-  <img src="https://img.shields.io/badge/ROAD%20ACCIDENT%20ANALYSIS-Excel%20%7C%20SQL%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🚦%20ROAD%20ACCIDENT%20ANALYSIS-Excel%20|%20SQL%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/Bank-Loan-Analytics">
-  <img src="https://img.shields.io/badge/BANK%20LOAN%20ANALYTICS-SQL%20%7C%20Python%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🏦%20BANK%20LOAN%20ANALYTICS-SQL%20|%20Python%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/PAN-Card-Validation-SQL-Python">
-  <img src="https://img.shields.io/badge/PAN%20CARD%20VALIDATION-SQL%20%7C%20Python-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🪪%20PAN%20CARD%20VALIDATION-SQL%20|%20Python-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/Pizza-Sales-Multi-Tool-Analysis">
-  <img src="https://img.shields.io/badge/PIZZA%20SALES%20ANALYSIS-Excel%20%7C%20SQL%20%7C%20Python%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🍕%20PIZZA%20SALES%20ANALYSIS-Excel%20|%20SQL%20|%20Python%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/PowerBI-IPL-Evolution-Analysis">
-  <img src="https://img.shields.io/badge/IPL%20EVOLUTION%20ANALYSIS-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🏏%20IPL%20EVOLUTION%20ANALYSIS-PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/PowerBI-Sales-Dashboard-2024">
-  <img src="https://img.shields.io/badge/SALES%20DASHBOARD%202024-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/📊%20SALES%20DASHBOARD%202024-PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/PowerBI-Car-Sales-Dashboard">
-  <img src="https://img.shields.io/badge/CAR%20SALES%20DASHBOARD-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🚗%20CAR%20SALES%20DASHBOARD-PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/Meta-Ad-Performance-Analysis">
-  <img src="https://img.shields.io/badge/META%20AD%20PERFORMANCE%20ANALYSIS-PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/📣%20META%20AD%20PERFORMANCE-PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 <a href="https://github.com/SagarSharma01-ai/SuperStore-Sales-Analysis">
-  <img src="https://img.shields.io/badge/SUPERSTORE%20SALES%20ANALYSIS-Python%20%7C%20PowerBI-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🛒%20SUPERSTORE%20SALES-Python%20|%20PowerBI-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
 
+</td>
+<td>
+
 <a href="https://github.com/SagarSharma01-ai/Spotify-Streaming-Trends-Analysis">
-  <img src="https://img.shields.io/badge/SPOTIFY%20STREAMING%20TRENDS-Python%20%7C%20EDA-6A0DAD?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" />
+<img src="https://img.shields.io/badge/🎧%20SPOTIFY%20STREAMING%20TRENDS-Python%20|%20EDA-6A0DAD?style=for-the-badge&logo=github&labelColor=111111"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 
 <!-- ## 💡 ##Tip: -->
